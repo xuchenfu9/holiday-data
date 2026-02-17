@@ -6,7 +6,7 @@
     {"date": "2027-01-01", "name": "元旦", "isOffDay": true},
     {"date": "2027-01-02", "name": "元旦", "isOffDay": true},
     {"date": "2027-01-03", "name": "元旦", "isOffDay": true},
-    {"date": "2026-02-14", "name": "春节调休", "isOffDay": false},
+    {"date": "2026-02-14", "name": "春节", "isOffDay": true},
     {"date": "2026-02-15", "name": "春节", "isOffDay": true},
     {"date": "2026-02-16", "name": "春节", "isOffDay": true},
     {"date": "2026-02-17", "name": "春节", "isOffDay": true},
