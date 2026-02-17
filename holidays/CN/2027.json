@@ -1,0 +1,9 @@
+{
+  "region": "CN",
+  "year": 2027,
+  "lastUpdated": "2026-12-01",
+  "holidays": [
+    {"date": "2027-01-01", "name": "元旦", "isOffDay": true},
+    ...
+  ]
+}
