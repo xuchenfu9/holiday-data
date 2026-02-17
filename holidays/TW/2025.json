@@ -1,0 +1,18 @@
+{
+  "region": "TW",
+  "year": 2025,
+  "lastUpdated": "2025-01-15",
+  "holidays": [
+    {"date": "2025-01-01", "name": "元旦", "isOffDay": true},
+    {"date": "2025-01-28", "name": "春節", "isOffDay": true},
+    {"date": "2025-01-29", "name": "春節", "isOffDay": true},
+    {"date": "2025-01-30", "name": "春節", "isOffDay": true},
+    {"date": "2025-01-31", "name": "春節", "isOffDay": true},
+    {"date": "2025-02-28", "name": "和平紀念日", "isOffDay": true},
+    {"date": "2025-04-04", "name": "清明節", "isOffDay": true},
+    {"date": "2025-05-01", "name": "勞動節", "isOffDay": true},
+    {"date": "2025-06-02", "name": "端午節", "isOffDay": true},
+    {"date": "2025-10-06", "name": "中秋節", "isOffDay": true},
+    {"date": "2025-10-10", "name": "國慶日", "isOffDay": true}
+  ]
+}

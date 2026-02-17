@@ -1,0 +1,23 @@
+{
+  "region": "KR",
+  "year": 2025,
+  "lastUpdated": "2025-01-15",
+  "holidays": [
+    {"date": "2025-01-01", "name": "신정", "isOffDay": true},
+    {"date": "2025-01-28", "name": "설날", "isOffDay": true},
+    {"date": "2025-01-29", "name": "설날", "isOffDay": true},
+    {"date": "2025-01-30", "name": "설날", "isOffDay": true},
+    {"date": "2025-03-01", "name": "삼일절", "isOffDay": true},
+    {"date": "2025-05-05", "name": "어린이날", "isOffDay": true},
+    {"date": "2025-05-06", "name": "대체공휴일", "isOffDay": true},
+    {"date": "2025-06-06", "name": "현충일", "isOffDay": true},
+    {"date": "2025-08-15", "name": "광복절", "isOffDay": true},
+    {"date": "2025-10-03", "name": "개천절", "isOffDay": true},
+    {"date": "2025-10-05", "name": "추석", "isOffDay": true},
+    {"date": "2025-10-06", "name": "추석", "isOffDay": true},
+    {"date": "2025-10-07", "name": "추석", "isOffDay": true},
+    {"date": "2025-10-08", "name": "대체공휴일", "isOffDay": true},
+    {"date": "2025-10-09", "name": "한글날", "isOffDay": true},
+    {"date": "2025-12-25", "name": "성탄절", "isOffDay": true}
+  ]
+}

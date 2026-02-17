@@ -1,0 +1,23 @@
+{
+  "region": "HK",
+  "year": 2026,
+  "lastUpdated": "2025-01-15",
+  "holidays": [
+    {"date": "2026-01-01", "name": "元旦", "isOffDay": true},
+    {"date": "2026-02-17", "name": "農曆年初一", "isOffDay": true},
+    {"date": "2026-02-18", "name": "農曆年初二", "isOffDay": true},
+    {"date": "2026-02-19", "name": "農曆年初三", "isOffDay": true},
+    {"date": "2026-04-03", "name": "耶穌受難節", "isOffDay": true},
+    {"date": "2026-04-04", "name": "清明節", "isOffDay": true},
+    {"date": "2026-04-06", "name": "復活節星期一", "isOffDay": true},
+    {"date": "2026-05-01", "name": "勞動節", "isOffDay": true},
+    {"date": "2026-05-24", "name": "佛誕", "isOffDay": true},
+    {"date": "2026-06-19", "name": "端午節", "isOffDay": true},
+    {"date": "2026-07-01", "name": "香港特別行政區成立紀念日", "isOffDay": true},
+    {"date": "2026-09-26", "name": "中秋節翌日", "isOffDay": true},
+    {"date": "2026-10-01", "name": "國慶日", "isOffDay": true},
+    {"date": "2026-10-18", "name": "重陽節", "isOffDay": true},
+    {"date": "2026-12-25", "name": "聖誕節", "isOffDay": true},
+    {"date": "2026-12-26", "name": "聖誕節後第一個周日", "isOffDay": true}
+  ]
+}

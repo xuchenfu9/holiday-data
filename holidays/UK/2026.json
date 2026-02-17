@@ -1,0 +1,15 @@
+{
+  "region": "UK",
+  "year": 2026,
+  "lastUpdated": "2025-01-15",
+  "holidays": [
+    {"date": "2026-01-01", "name": "New Year", "isOffDay": true},
+    {"date": "2026-04-03", "name": "Good Friday", "isOffDay": true},
+    {"date": "2026-04-06", "name": "Easter Monday", "isOffDay": true},
+    {"date": "2026-05-04", "name": "May Bank Holiday", "isOffDay": true},
+    {"date": "2026-05-25", "name": "Spring Bank Holiday", "isOffDay": true},
+    {"date": "2026-08-31", "name": "Summer Bank Holiday", "isOffDay": true},
+    {"date": "2026-12-25", "name": "Christmas", "isOffDay": true},
+    {"date": "2026-12-28", "name": "Boxing Day", "isOffDay": true}
+  ]
+}
